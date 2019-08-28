@@ -23,9 +23,9 @@
   color: #f4f4f4;
   background-color: #333; }
 
-button[class^="btn-"]:hover,
-a[class^="btn-"]:hover,
-input[class^="btn-"]:hover {
+button[class^='btn-']:hover,
+a[class^='btn-']:hover,
+input[class^='btn-']:hover {
   background-color: #ffbc00; }
 
 .bg-main {
