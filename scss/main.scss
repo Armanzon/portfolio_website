@@ -385,5 +385,14 @@ img {
   }
 }
 
+// Certificates
+.certificate {
+  padding: 2rem;
+}
+
+h4 {
+  padding-bottom: 0.5rem;
+}
+
 // Import Media Queries
 @import 'media';
