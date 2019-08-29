@@ -380,6 +380,7 @@ img {
 
       &:hover {
         background: $main-color;
+        cursor: pointer;
       }
     }
   }
@@ -387,7 +388,7 @@ img {
 
 // Certificates
 .certificate {
-  padding: 2rem;
+  padding: 1.5rem;
 }
 
 h4 {
