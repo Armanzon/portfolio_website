@@ -10,7 +10,7 @@
   overflow: hidden;
 
   &::after {
-    content: "";
+    content: '';
     position: absolute;
     display: block;
     background: inherit;
@@ -47,7 +47,7 @@
   }
 
   &-image:before {
-    content: "";
+    content: '';
     display: block;
     padding-top: 75%;
     overflow: hidden;
@@ -97,4 +97,10 @@
     opacity: 0.7;
     margin: 0;
   }
+}
+
+#item-6,
+#item-4,
+#item-8 {
+  cursor: pointer;
 }

@@ -39,6 +39,10 @@ img {
   height: 70px;
   color: #fff;
   text-transform: uppercase;
+
+  &:hover {
+    cursor: pointer;
+  }
 }
 
 // Main Nav
