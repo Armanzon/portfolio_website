@@ -94,6 +94,20 @@ img {
       font-size: 4rem;
       line-height: 1.2;
     }
+
+    .header-btn {
+      margin-right: 1rem;
+    }
+
+    .button-dark {
+      @extend %btn-shared;
+      color: #f4f4f4;
+      background-color: $dark-color;
+    }
+
+    .button-dark:hover {
+      background-color: #ff0000;
+    }
   }
   // Header Inner
   &-inner {
